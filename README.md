@@ -1,4 +1,4 @@
 deltaJS
 =======
 
-Getting delta of two texts. Implementing O(ND) Difference Algorithm.
+Getting delta objects of two texts in JS. Implementing O(ND) Difference Algorithm.
